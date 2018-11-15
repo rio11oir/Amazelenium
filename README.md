@@ -6,7 +6,7 @@ Latest version of Chrome, Python, and Selenium installed
 
 ## Instructions
 - Ensure you have both the "test" and "drivers" folders on your computer
-- Run mainTest.py
+- Run test/mainTest.py
 - Type in '1','2','3','4', or '5' for the desired use case to be automated
 - Enjoy watching Amazon being opened on Chrome
 
